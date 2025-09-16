@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 Features
+## Features
 - Detects emotions in real time using:
   - [FER](https://github.com/justinshenk/fer) (fast, lightweight)
   - [DeepFace](https://github.com/serengil/deepface) (more accurate, slower)
@@ -17,5 +17,24 @@
 
 ---
 
-## 🗂️ Project Structure
+## Installation
+
+1. **Clone the repository**
+
+   bash
+   git clone https://github.com/SUMITpoddarrr/Aura_farming.git
+   cd Aura_farming
+2. **Create and activate a virtual environment**
+   python -m venv venv
+   venv\Scripts\activate
+3. **Install dependencies**
+   pip install -r requirements.txt
+4. **Install dependencies**
+   python -m aura.main.py
+
+## Demo
+[▶️ Watch the demo](results.mp4)
+
+
+
 
