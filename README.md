@@ -33,7 +33,7 @@
    python -m aura.main.py
 
 ## Demo
-[▶️ Watch the demo](results.mp4)
+[▶️ Watch the demo](result.mp4)
 
 
 
